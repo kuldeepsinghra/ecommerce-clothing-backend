@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Casual Shirt",
+      "description": "Cotton casual shirt",
+      "price": 29.99,
+      "size": "M",
+      "color": "Blue",
+      "imageURL": "https://via.placeholder.com/300"
+    },
+    {
+      "name": "Denim Jacket",
+      "description": "Stylish denim jacket",
+      "price": 59.99,
+      "size": "L",
+      "color": "Black",
+      "imageURL": "https://via.placeholder.com/300"
+    }
+  ]
+  
